@@ -1,0 +1,6 @@
+{
+  "name": "Antigravity Agent Studio",
+  "description": "Interactive console for running Google Antigravity Agent interactions with background execution, live reasoning, code execution, and remote sandbox environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
